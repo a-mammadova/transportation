@@ -29,5 +29,5 @@ src/ ├── transportation/ │ ├── Vehicle.java │ ├── Car.java
 - writing and organizing JUnit tests effectively
 
 ## connect with me
-feel free to connect with me on [LinkedIn]([www.linkedin.com/in/mammadovaasmar](https://www.linkedin.com/in/mammadovaasmar/)) 
+feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mammadovaasmar/) 
 
