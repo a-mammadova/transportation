@@ -9,10 +9,11 @@ public class Car extends Vehicle {
 
     @Override
     public void refuel(int amountOfGas) {
-        if (getGasRemained() + amountOfGas > 200)
+        if (getGasRemained() + amountOfGas > 200) {
             gasRemained = 200;
-        else
+        } else {
             gasRemained += amountOfGas;
+        }
     }
 
     @Override
